@@ -34,18 +34,8 @@ media
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
-# Gradle
-.idea/**/gradle.xml
-.idea/**/libraries
-
 # File-based project format
 *.iws
-
-# IntelliJ
-out/
-
-# JIRA plugin
-atlassian-ide-plugin.xml
 
 # Python #
 *.py[cod]
@@ -78,7 +68,6 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
-.coverage
 .coverage.*
 .cache
 .pytest_cache/
